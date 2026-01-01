@@ -5,7 +5,7 @@
 ### **DO NOT UNZIP THIS FILE ON YOUR LOCAL MACHINE**
 
 [![Danger](https://img.shields.io/badge/DANGER-EXTREME-red?style=for-the-badge&logo=hack-the-box)](https://en.wikipedia.org/wiki/Zip_bomb)
-[![Size](https://img.shields.io/badge/UNCOMPRESSED%20SIZE-4.5%20PETABYTES-black?style=for-the-badge&labelColor=red)](https://en.wikipedia.org/wiki/Petabyte)
+[![Size](https://img.shields.io/badge/UNCOMPRESSED%20SIZE-in%20PETABYTES-black?style=for-the-badge&labelColor=red)](https://en.wikipedia.org/wiki/Petabyte)
 [![Malware Classification](https://img.shields.io/badge/TYPE-DECOMPRESSION%20BOMB-yellow?style=for-the-badge&logo=warning)](https://en.wikipedia.org/wiki/Zip_bomb)
 
 <br />
